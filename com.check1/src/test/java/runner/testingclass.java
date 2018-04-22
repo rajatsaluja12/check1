@@ -6,7 +6,6 @@ public class testingclass {
 	@Test
 	public static void methodnew() {
 		System.out.println("Almighty God help me seek the offer from good company");
-		//System.out.println("Absolutely True");
 
 	}
 
