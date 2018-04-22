@@ -1,8 +1,10 @@
 package runner;
 
-public class testingclass {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class testingclass {
+	@Test
+	public static void methodnew() {
 		System.out.println("rajat is pagal");
 
 	}
