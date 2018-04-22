@@ -7,7 +7,6 @@ public class testingclass {
 	public static void methodnew() {
 		System.out.println("Almighty God help me seek the offer from good company");
 		System.out.println("Absolutely True");
-		//git checklout is userful//
 
 	}
 
