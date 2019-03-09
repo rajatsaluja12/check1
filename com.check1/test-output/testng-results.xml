@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2019-01-03T15:23:13Z" finished-at="2019-01-03T15:23:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2019-01-03T15:23:13Z" finished-at="2019-01-03T15:23:14Z">
+      <class name="runner.MultipleTest">
+        <test-method status="PASS" signature="One()[pri:0, instance:runner.MultipleTest@4c70fda8]" name="One" duration-ms="14" started-at="2019-01-03T15:23:13Z" finished-at="2019-01-03T15:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- One -->
+        <test-method status="PASS" signature="Two()[pri:1, instance:runner.MultipleTest@4c70fda8]" name="Two" duration-ms="12" started-at="2019-01-03T15:23:13Z" finished-at="2019-01-03T15:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Two -->
+        <test-method status="PASS" signature="Four()[pri:3, instance:runner.MultipleTest@4c70fda8]" name="Four" duration-ms="6" started-at="2019-01-03T15:23:13Z" finished-at="2019-01-03T15:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Four -->
+      </class> <!-- runner.MultipleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
