@@ -13,7 +13,6 @@ public WebDriver driver;
 
       System.out.println("This is the Test Case number One");
       System.out.println("Changes done");
-      System.out.println("Changes reverted");
 
   }
 
@@ -22,7 +21,6 @@ public WebDriver driver;
   public void Two() {
 
    System.out.println("This is the Test Case number Two");
-   System.out.println("Check loal branch");
 
   }
 
