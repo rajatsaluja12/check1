@@ -22,6 +22,7 @@ public WebDriver driver;
   public void Two() {
 
    System.out.println("This is the Test Case number Two");
+   System.out.println("Hello world");
 
   }
 
